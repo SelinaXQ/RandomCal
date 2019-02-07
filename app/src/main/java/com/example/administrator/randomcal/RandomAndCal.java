@@ -5,7 +5,6 @@ import java.util.StringTokenizer;
 
 public class RandomAndCal {
     public String problem;
-
     public RandomAndCal(String inputProblem){
         setProblem(inputProblem);
     }
